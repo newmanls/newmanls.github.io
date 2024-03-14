@@ -4,9 +4,9 @@
             <li><a href="/" class="contrast"><strong>newmanls</strong></a></li>
         </ul>
         <ul>
-            <li><a href="/#">About me</a></li>
-            <li><a href="/#">Projects</a></li>
-            <li><a href="/#">Contact</a></li>
+            <li><a href="/#about-me">About me</a></li>
+            <li><a href="/#projects">Projects</a></li>
+            <li><a href="/#contact">Contact</a></li>
         </ul>
     </nav>
 </header>
@@ -24,7 +24,11 @@
 
 <style>
     header {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
         padding: 0;
+        background: var(--pico-background-color);
         border-bottom: solid 1px var(--pico-muted-border-color);
     }
     main {
@@ -39,7 +43,7 @@
     }
     .container {
         max-width: 800px;
-        padding-left: 16px;
-        padding-right: 16px;
+        padding-left: 24px;
+        padding-right: 24px;
     }
 </style>
