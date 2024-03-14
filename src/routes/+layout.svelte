@@ -1,7 +1,3 @@
-<script>
-    export const prerender = true;
-</script>
-
 <header class="container">
     <nav>
         <ul>
