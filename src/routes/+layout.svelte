@@ -12,7 +12,6 @@
         <ul>
             <li><a href="{base}/#about-me">About me</a></li>
             <li><a href="{base}/#projects">Projects</a></li>
-            <li><a href="{base}/#contact">Contact</a></li>
         </ul>
     </nav>
 </header>

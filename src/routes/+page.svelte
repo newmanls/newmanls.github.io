@@ -19,10 +19,6 @@
     </ul>
 </section>
 
-<section id="contact">
-    <h3>Contact</h3>
-</section>
-
 <style>
     ul {
         padding-left: 0;
