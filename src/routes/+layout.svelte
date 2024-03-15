@@ -19,6 +19,8 @@
     <p>
         Made with <a href="https://svelte.dev/">Svelte</a> and
         <a href="https://picocss.com/">Pico CSS</a>.
+        <a href="https://github.com/newmanls/newmanls.github.io">Source code</a
+        >.
     </p>
 </footer>
 
