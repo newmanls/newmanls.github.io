@@ -32,9 +32,6 @@
 
 <style>
     header {
-        position: -webkit-sticky;
-        position: sticky;
-        top: 0;
         padding: 0;
         background: var(--pico-background-color);
         border-bottom: solid 1px var(--pico-muted-border-color);
