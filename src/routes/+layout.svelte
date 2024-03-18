@@ -1,5 +1,6 @@
 <script lang="ts">
     import { base } from "$app/paths";
+    import "@picocss/pico";
 </script>
 
 <header class="container">
@@ -30,6 +31,10 @@
 </footer>
 
 <style>
+    main,
+    footer {
+        padding-block: var(--pico-block-spacing-vertical);
+    }
     header {
         position: -webkit-sticky;
         position: sticky;
