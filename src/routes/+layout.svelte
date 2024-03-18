@@ -3,8 +3,8 @@
     import "@picocss/pico";
 </script>
 
-<header class="container">
-    <nav>
+<header>
+    <nav class="container">
         <ul>
             <li>
                 <a href="{base}/" class="contrast"><strong>newmanls</strong></a>
@@ -42,6 +42,7 @@
         padding: 0;
         background: var(--pico-background-color);
         border-bottom: solid 1px var(--pico-muted-border-color);
+        box-shadow: var(--pico-box-shadow);
     }
     main {
         display: flex;
