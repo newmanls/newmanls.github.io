@@ -1,7 +1,5 @@
-import projects_index from './data/projects/index.json'
+import data from '$lib/data.json'
 
 export function load() {
-    return {
-        projects: projects_index
-    }
+    return data
 }

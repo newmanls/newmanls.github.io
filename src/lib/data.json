@@ -1,0 +1,30 @@
+{
+    "about_me": "<b>Hi, I'm Newman!</b>",
+    "projects": [
+        {
+            "title": "mintab",
+            "description": "A minimal, elegant, easy to configure startpage",
+            "href": "https://github.com/newmanls/mintab",
+            "src": "https://raw.githubusercontent.com/newmanls/mintab/master/img/main_dark.png"
+        },
+        {
+            "title": "lightnovel.sh",
+            "description": "A terminal-based lightnovel reader written in Bash",
+            "href": "https://github.com/newmanls/lightnovel.sh",
+            "src": "https://user-images.githubusercontent.com/75286649/174728555-0d3b288d-4aba-473a-9779-e2d7d925eb90.gif"
+        },
+        {
+            "title": "OnelineProton",
+            "description": "An one-line userChrome.css theme for Firefox",
+            "href": "https://github.com/newmanls/OnelineProton",
+            "src": "https://raw.githubusercontent.com/newmanls/OnelineProton/master/screenshot.png"
+        },
+        {
+            "title": "rofi-themes-collection",
+            "description": "Themes Collection for Rofi Launcher ",
+            "href": "https://github.com/newmanls/rofi-themes-collection",
+            "src": "https://raw.githubusercontent.com/newmanls/rofi-themes-collection/master/screenshots/rounded-dark.gif"
+        }
+    ],
+    "projects_empty": "Nothing to see here..."
+}
